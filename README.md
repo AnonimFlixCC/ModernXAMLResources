@@ -1,3 +1,3 @@
 # ModernXAMLResources
 
-FontAwesome.WPF the download Package
+FontAwesome.WPF the Download Package (Nuget.org)
